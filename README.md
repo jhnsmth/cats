@@ -137,7 +137,6 @@ By sharing the same set of type classes, instances and data types provided by Ca
  * [Freestyle](https://github.com/frees-io/freestyle): pure functional framework for Free and Tagless Final apps & libs
  * [iota](https://github.com/frees-io/iota): Fast [co]product types with a clean syntax
  * [Monocle](https://github.com/julien-truffaut/Monocle): an optics library for Scala (and Scala.js) strongly inspired by Haskell Lens.
- * [newts](https://github.com/julien-truffaut/newts): Defines newtypes compatible with Cats type classes
  * [origami](https://github.com/atnos-org/origami): monadic folds
  * [refined](https://github.com/fthomas/refined): simple refinement types for Scala
  * [shims](https://github.com/djspiewak/shims): seamless interoperability for cats and scalaz typeclasses and datatypes
